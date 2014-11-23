@@ -1,0 +1,4 @@
+DM
+==
+
+detail machine
